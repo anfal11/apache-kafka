@@ -1,4 +1,4 @@
-### Apache Kafka: Simplifying Real-Time Data Pipelines
+# Apache Kafka: Simplifying Real-Time Data Pipelines
 
 Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications. It offers high-throughput, fault-tolerant, and scalable data streams, making it an ideal solution for managing data flow in growing enterprises. 
 
